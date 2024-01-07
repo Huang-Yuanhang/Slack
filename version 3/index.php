@@ -36,7 +36,7 @@ get_header();
 
         <!-- Ranking Section -->
         <section id="jcu-ranking" class="ranking-section">
-            <h2>James Cook University Rankings</h2>
+            <h2>World Rankings</h2>
             
             <!-- Ranking Bars -->
             <div class="ranking-bar-container">
@@ -51,22 +51,22 @@ get_header();
         <section id="jcu-rankings-logos" class="rankings-logos-section">
             <div class="rankings-logos-container">
                 <!-- Each logo will be wrapped in a div with a class for animation -->
-                <div class="ranking-logo animated-logo" data-delay="500">
+                <div class="ranking-logo animated-logo" data-delay="1900">
                     <img src="<?php echo get_template_directory_uri(); ?>./ranking/ranking-QS.png" alt="#1AUS and #1WORLD for Sustainable Edu">
                 </div>
-                <div class="ranking-logo animated-logo" data-delay="850">
+                <div class="ranking-logo animated-logo" data-delay="2635">
                     <img src="<?php echo get_template_directory_uri(); ?>./ranking/ranking-THE.png" alt="Top 2% university in the world">
                 </div>
-                <div class="ranking-logo animated-logo" data-delay="1300">
+                <div class="ranking-logo animated-logo" data-delay="2300">
                     <img src="<?php echo get_template_directory_uri(); ?>./ranking/ranking-UN.png" alt="#5 in the World THE impact Rankings">
                 </div>
-                <div class="ranking-logo animated-logo" data-delay="1650">
+                <div class="ranking-logo animated-logo" data-delay="1350">
                     <img src="<?php echo get_template_directory_uri(); ?>./ranking/ranking-WUR.png" alt="#1 in the World for Marine and Freshwater Bio">
                 </div>
                 <div class="ranking-logo animated-logo" data-delay="800">
                     <img src="<?php echo get_template_directory_uri(); ?>./ranking/ranking-GUG.png" alt="5 Stars Good Universities Guide">
                 </div>
-                <div class="ranking-logo animated-logo" data-delay="950">
+                <div class="ranking-logo animated-logo" data-delay="1550">
                     <img src="<?php echo get_template_directory_uri(); ?>./ranking/ranking-IRUA.png" alt="IRUA membership">
                 </div>
                 <div class="ranking-logo animated-logo" data-delay="1100">
@@ -74,8 +74,6 @@ get_header();
                 </div>
             </div>
         </section>
-
-
 
         <!-- Info Section -->
         <section class="home-info" id="about">
@@ -127,6 +125,21 @@ get_header();
         <section class="home-cta">
             <h2>Ready to start your journey?</h2>
             <a href="<?php echo home_url('#enroll-now-form'); ?>" class="btn-enroll">Enroll Now</a>
+        </section>
+
+        <!-- Visit Our Campus Section -->
+        <section class="visit-our-campus">
+            <div class="container">
+                <div class="campus-image">
+                    <img src="<?php echo get_template_directory_uri(); ?>/campus.png" alt="Campus">
+                </div>
+                <div class="campus-info">
+                    <h2>Visit Our Campus</h2>
+                    <p>James Cook University welcomes you to our campus. Established in 1970, our university has been the gateway to a comprehensive learning experience. Here, students from all around the globe find their calling, engage with innovative ideas, and prepare for impactful careers.</p>
+                    <p>Our campus tours provide an insider's view into student life, our state-of-the-art facilities, and our community's vibrant culture. Come and see for yourself what makes JCU a place of growth and excellence.</p>
+                    <a href="mailto:info@jcu.edu.au" class="email-link">Email info@jcu.edu.au</a>
+                </div>
+            </div>
         </section>
 
         <!-- Include form from form.php -->
@@ -193,6 +206,16 @@ get_header();
         });
     });
 
+    // Add smooth scrolling for all links
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (e) {
+            e.preventDefault();
+
+            document.querySelector(this.getAttribute('href')).scrollIntoView({
+                behavior: 'smooth'
+            });
+        });
+    });
 
 
 </script>
