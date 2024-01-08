@@ -52,148 +52,110 @@ get_header();
             <div class="rankings-logos-container">
                 <!-- Each logo will be wrapped in a div with a class for animation -->
                 <div class="ranking-logo animated-logo" data-delay="1900">
-                    <img src="<?php echo get_template_directory_uri(); ?>./ranking/ranking-QS.png" alt="#1AUS and #1WORLD for Sustainable Edu">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/ranking-QS.png" alt="#1AUS and #1WORLD for Sustainable Edu">
                 </div>
                 <div class="ranking-logo animated-logo" data-delay="2635">
-                    <img src="<?php echo get_template_directory_uri(); ?>./ranking/ranking-THE.png" alt="Top 2% university in the world">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/ranking-THE.png" alt="Top 2% university in the world">
                 </div>
                 <div class="ranking-logo animated-logo" data-delay="2300">
-                    <img src="<?php echo get_template_directory_uri(); ?>./ranking/ranking-UN.png" alt="#5 in the World THE impact Rankings">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/ranking-UN.png" alt="#5 in the World THE impact Rankings">
                 </div>
                 <div class="ranking-logo animated-logo" data-delay="1350">
-                    <img src="<?php echo get_template_directory_uri(); ?>./ranking/ranking-WUR.png" alt="#1 in the World for Marine and Freshwater Bio">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/ranking-WUR.png" alt="#1 in the World for Marine and Freshwater Bio">
                 </div>
                 <div class="ranking-logo animated-logo" data-delay="800">
-                    <img src="<?php echo get_template_directory_uri(); ?>./ranking/ranking-GUG.png" alt="5 Stars Good Universities Guide">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/ranking-GUG.png" alt="5 Stars Good Universities Guide">
                 </div>
                 <div class="ranking-logo animated-logo" data-delay="1550">
-                    <img src="<?php echo get_template_directory_uri(); ?>./ranking/ranking-IRUA.png" alt="IRUA membership">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/ranking-IRUA.png" alt="IRUA membership">
                 </div>
                 <div class="ranking-logo animated-logo" data-delay="1100">
-                    <img src="<?php echo get_template_directory_uri(); ?>./ranking/ranking-QS2.png" alt="5 Stars QS URanking">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/ranking-QS2.png" alt="5 Stars QS URanking">
                 </div>
             </div>
         </section>
 
         <!-- Info Section -->
         <section class="home-info" id="about">
-            <h2 class="about-intro">About JCU</h2>
-            <p class="about-intro">James Cook University has been at the forefront of education and research. 
-                Our programs offer a blend of theory and practical experience to prepare you for the real world.</p>
-        
-            <!-- About JCU Section -->
-            <section id="about" class="about-jcu-section">
-                <div class="container">
-                    
-                    <h3>A Legacy of Excellence and Innovation</h3>
-                    <p>Welcome to James Cook University, a world-class institution dedicated to creating a brighter future for life in the tropics worldwide, through graduates and discoveries that make a difference. Established in 1970, JCU has grown into an internationally recognized research university, ranking in the top 2% of universities worldwide.</p>
+            <!-- <h2 class="about-intro">About JCU</h2> -->
+            <!-- <p class="about-intro">James Cook University has been at the forefront of education and research.  -->
+                <!-- Our programs offer a blend of theory and practical experience to prepare you for the real world.</p> -->
 
-                    <h4>Our History:</h4>
-                    
-                    <!-- Content to Show/Hide -->
-                    <div id="about-content" class="about-content">
-                        <!-- Your existing About JCU content here -->
-                        <p>JCU's journey began over five decades ago in Townsville and Cairns, Northern Queensland. Named after the eighteenth-century British explorer Captain James Cook, the university has since burgeoned into a vibrant hub for learning and innovation.</p>
-    
-                        <h4>Academic Excellence:</h4>
-                        <p>With a strong emphasis on research addressing critical challenges facing the tropics, JCU has become a leader in fields such as marine sciences, biodiversity, tropical ecology and environments, global warming, tourism, and tropical medicine. Our courses are designed not just to meet industry standards but to lead them.</p>
-    
-                        <h4>Campus Life:</h4>
-                        <p>Our campuses in Cairns, Townsville, and Singapore are vibrant, welcoming places that offer a safe and friendly environment for study. The campuses are equipped with state-of-the-art facilities and are set amidst lush tropical surroundings, providing an immersive learning experience that stands out.</p>
-    
-                        <h4>Community and Culture:</h4>
-                        <p>At JCU, we cherish our strong community bonds and diverse culture. Our commitment extends beyond the campus boundaries - we foster strong partnerships with local industries and communities. Our students and staff are encouraged to engage with the community, giving them real-world experience and making tangible differences.</p>
-    
-                        <h4>Global Perspectives:</h4>
-                        <p>We are committed to providing our students with a global perspective, preparing them to live, work, and thrive in an interconnected world. Our partnerships with universities worldwide offer our students unique exchange and collaboration opportunities.</p>
-    
-                        <h4>Sustainability:</h4>
-                        <p>Sustainability is at the core of JCU's ethos. Our campuses are living laboratories for sustainability. We are dedicated to preserving our natural environment and imparting this consciousness to all our academic programs.</p>
-    
-                        <p>Discover more about our courses, research, and the vibrant JCU community. Experience the spirit of JCU at our Open House and see how you can be part of a university that’s making a global impact.</p>
-                    
-                    </div>
-
-                    <!-- Read More/Less Button -->
-                    <button id="about-read-more" class="read-more">Read More</button>
-    
+            <!-- About Slideshow -->
+            <div class="slideshow-container" id="admission">
+                <!-- First Slide -->
+                <div class="slide fade">
+                    <h2>Trimester System</h2>
+                    <p>With a trimester program, you can complete your Bachelors degree in 2 years 
+                        and Masters degree in 1 year (depending on the course taken).</p>
+                    <h2>Globally recognised Australian degree.</h2>
+                    <p>You will graduate with exactly the same globally recognised degree as 
+                        students who study at James Cook University in Australia.</p>
                 </div>
+
+                
+                <!-- Second Slide -->
+                <div class="slide fade">
+                    <h2>Admissions Requirements</h2>
+                    <p>The entry requirements differ from country to country and according to the applicant's desired course of study. 
+                        In general applicants must have satisfactorily completed 12 years of schooling 
+                        and appropriate English Proficiency level equating to a minimum IELTS of 6.0. 
+                        Pathway programs are available for progression to our degree courses.</p>
+                        <p>Email: <a href="mailto:admissions-singapore@jcu.edu.au">admissions-singapore@jcu.edu.au</a></p>
+                    </div>
+                    
+                <!-- Third Slide -->
+                <div class="slide fade">
+                    <h2>JCU Intercampus Exchange Program</h2>
+                    <p>James Cook University provides the opportunity for you to study in Singapore 
+                        and in Australia and yet still remain as a Singapore based student paying your fees in Singapore currency. 
+                        This is a unique program in Asia and is only able to operate because the university operates across both countries. 
+                        The program is designed to ensure you get the best possible outcomes from your years of study with the university.</p>
+                </div>
+                    
+                <!-- Fourth Slide -->
+                <div class="slide fade">
+                    <h2>Varie of courses</h2>
+                    <p><b> majors in Business:</b> You can complete the double major at no extra cost or time commitment</p>
+                    <p><b> Joint Masters of IT and Business Administration:</b> Get broader industry exposure and wider career options with a joint Masters program.</p>
+                    <p><b>Psychology Accreditation:</b> Our Bachelor of Psychological Science courses are accredited by the Australian Psychology Accreditation Council (APAC).</p>
+                    <p><b>Diploma Programs:</b> Students with Year 12, GCE 'A' Level or its equivalent who do not meet direct entry to a degree program are eligible to pursue this qualification.</p>
+                </div>
+
+                <!-- Next and previous buttons -->
+                <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                <a class="next" onclick="plusSlides(1)">&#10095;</a>
+            </div>
+
+            <!-- Include about from about.php -->
+            <section id="home-info">
+            <?php get_template_part('about'); ?>
             </section>
 
         </section>
 
         <!-- Call to Action Section -->
-        <section class="home-cta">
-            <h2>Ready to start your journey?</h2>
-            <a href="<?php echo home_url('#enroll-now-form'); ?>" class="btn-enroll">Enroll Now</a>
+        <!-- Include call to action section from cta.php -->
+        <section id="cta">
+        <?php get_template_part('cta'); ?>
         </section>
 
         <!-- Visit Our Campus Section -->
-        <section class="visit-our-campus">
-            <div class="container">
-                <div class="campus-image">
-                    <img src="<?php echo get_template_directory_uri(); ?>/campus.png" alt="Campus">
-                </div>
-                <div class="campus-info">
-                    <h2>Visit Our Campus</h2>
-                    <p>James Cook University welcomes you to our campus. Established in 1970, our university has been the gateway to a comprehensive learning experience. Here, students from all around the globe find their calling, engage with innovative ideas, and prepare for impactful careers.</p>
-                    <p>Our campus tours provide an insider's view into student life, our state-of-the-art facilities, and our community's vibrant culture. Come and see for yourself what makes JCU a place of growth and excellence.</p>
-                    <a href="mailto:info@jcu.edu.au" class="email-link">Email info@jcu.edu.au</a>
-                </div>
-            </div>
+        <!-- Include form from visit-campus.php -->
+        <section id="visit-our-campus">
+        <?php get_template_part('visit-campus'); ?>
         </section>
-        
-        <div class="slideshow-container">
-            <!-- First Slide -->
-            <div class="slide fade">
-                <h2>Trimester System</h2>
-                <p>With a trimester program, you can complete your Bachelors degree in 2 years 
-                    and Masters degree in 1 year (depending on the course taken).</p>
-                <h2>Globally recognised Australian degree.</h2>
-                <p>You will graduate with exactly the same globally recognised degree as 
-                    students who study at James Cook University in Australia.</p>
-            </div>
-
-            <!-- Second Slide -->
-            <div class="slide fade">
-                <h2>JCU Intercampus Exchange Program</h2>
-                <p>James Cook University provides the opportunity for you to study in Singapore 
-                    and in Australia and yet still remain as a Singapore based student paying your fees in Singapore currency. 
-                    This is a unique program in Asia and is only able to operate because the university operates across both countries. 
-                    The program is designed to ensure you get the best possible outcomes from your years of study with the university.</p>
-            </div>
-
-            <!-- Third Slide -->
-            <div class="slide fade">
-                <h2>Admissions Requirements</h2>
-                <p>The entry requirements differ from country to country and according to the applicant's desired course of study. 
-                    In general applicants must have satisfactorily completed 12 years of schooling 
-                    and appropriate English Proficiency level equating to a minimum IELTS of 6.0. 
-                    Pathway programs are available for progression to our degree courses.</p>
-                <p>Email: <a href="mailto:admissions-singapore@jcu.edu.au">admissions-singapore@jcu.edu.au</a></p>
-            </div>
-
-            <!-- Fourth Slide -->
-            <div class="slide fade">
-                <h2>Varie of courses</h2>
-                <p><b> majors in Business:</b> You can complete the double major at no extra cost or time commitment</p>
-                <p><b> Joint Masters of IT and Business Administration:</b> Get broader industry exposure and wider career options with a joint Masters program.</p>
-                <p><b>Psychology Accreditation:</b> Our Bachelor of Psychological Science courses are accredited by the Australian Psychology Accreditation Council (APAC).</p>
-                <p><b>Diploma Programs:</b> Students with Year 12, GCE 'A' Level or its equivalent who do not meet direct entry to a degree program are eligible to pursue this qualification.</p>
-            </div>
-
-            <!-- Next and previous buttons -->
-            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-            <a class="next" onclick="plusSlides(1)">&#10095;</a>
-        </div>
-
-
 
         <!-- Include form from form.php -->
         <section id="enroll-now-form">
         <?php get_template_part('form'); ?>
         </section>
         
+        <!-- Include Back to Top Button from totop.php -->
+        <section id="back-to-top">
+        <?php get_template_part('totop'); ?>
+        </section>
+
 	</main><!-- #main -->
 
 
@@ -288,6 +250,26 @@ get_header();
         }
         slides[slideIndex-1].style.display = "block";
     }
+
+    // JavaScript to toggle the visibility of the Back to Top button
+    document.addEventListener('DOMContentLoaded', (event) => {
+    const backToTopButton = document.querySelector('.back-to-top');
+
+    window.addEventListener('scroll', () => {
+        if (window.scrollY > 500) { // Button visible after scrolling down 500px
+        backToTopButton.style.display = 'block';
+        } else {
+        backToTopButton.style.display = 'none';
+        }
+    });
+
+    backToTopButton.addEventListener('click', (e) => {
+        window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+        });
+    });
+    });
 
 </script>
 

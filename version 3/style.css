@@ -108,6 +108,32 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
     margin-top: 20px;
 }
 
+/* Special Navigation Item - Enroll Now Styling */
+.special-nav-item a {
+  background-color: #f8c146; /* A warm inviting color */
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 30px; /* Fully rounded corners for a pill shape */
+  text-transform: uppercase; /* Capitalize text for emphasis */
+  font-weight: bold;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+  transition: all 0.3s ease-in-out;
+}
+
+/* Enroll Now hover effect */
+.special-nav-item a:hover {
+  background-color: #e6b034; /* A slightly darker shade for hover state */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Increase shadow for lifted effect */
+  transform: translateY(-2px); /* Slight raise on hover */
+}
+
+/* Active/focused state for accessibility */
+.special-nav-item a:active,
+.special-nav-item a:focus {
+  background-color: #ffd564; /* Lighter shade for active state */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Smaller shadow for pressed effect */
+}
+
 /* Home video */
 .home-video {
     max-width: 100%; 
@@ -512,6 +538,29 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 .enroll-now-form input[type="submit"]:hover {
     background-color: #003d82;
 }
+
+/* Back to Top Button */
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #0056b3; /* JCU color */
+  color: white;
+  padding: 10px 15px;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 14px;
+  z-index: 100;
+  cursor: pointer;
+  text-decoration: none;
+  display: none; /* Hidden by default */
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.back-to-top:hover {
+  background-color: #003d82; /* Darker JCU color for hover effect */
+}
+
 
 /* Footer */
 .footer-content {
