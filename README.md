@@ -26,7 +26,6 @@ Installation
 * WordPress 6.4.2
 * Visual Studio Code (or any preferred IDE)
 
-
 ### Setup:
 
 * Extract the WordPress 6.4.2.. ZIP archive to the htdocs directory in your XAMPP installation.
@@ -57,10 +56,6 @@ Installation
 3. Test Changes: Thoroughly test your changes in the local environment.
 4. Commit: Once tested, commit your changes with a clear commit message.
 5. Push: Push your commits to the remote repository.
-   
-------------------------------------------------------------------------------------------
-Trello/Discord -> Slack -> XAMPP -> Wordpress -> VSCode -> Github -> Staging -> Live Site 
-------------------------------------------------------------------------------------------
 
 ### Deployment
 
@@ -71,10 +66,27 @@ Deployment to the live server should be done in accordance with the established 
 * Direct commits to a production branch in version control, if configured to auto-deploy.
 * Ensure that backups and a rollback plan are in place before deploying.
 
+### Additional Notes
+
+1. All changes to the theme and plugins should be tracked in version control.
+2. Maintain coding standards and documentation for future developers.
+3. Test on different browsers and devices to ensure compatibility.
+4. Due to being unable to configure the underscores theme name, '@package version2', as we didn't want to change and corrupt the whole file (this is untested), we decided to leave the name as that.
+* this makes uploading the theme files to WordPress will leave the name of the theme as version2.
+
+### Group 3 Project Documentation
+---------------
+
+### Deployment
 As for our choice of deployment, our team chose [infinityfree hosting site](https://www.infinityfree.com/)
 * [Live Site](http://jcu14405427.rf.gd/)
 * <i>it is worth mentioning that I have been unable to solve the issues of hero-video not appearing on the live site sadly :( .</i>
 * [Staging Site](http://jcu14405427.rf.gd/wp-admin/)
+
+#### Workflow
+------------------------------------------------------------------------------------------
+Trello/Discord -> Slack -> XAMPP -> Wordpress -> VSCode -> Github -> Staging -> Live Site 
+------------------------------------------------------------------------------------------
   
 ### Site Goals
 * Deliver a product that serves as an effective digital front door that welcomes, informs, and converts visitors through a high-quality online experience that mirrors the institution's respectable standards.
@@ -87,14 +99,6 @@ As for our choice of deployment, our team chose [infinityfree hosting site](http
 * [Slack](https://join.slack.com/t/cp3402hq/shared_invite/zt-29xrx5suu-AZqTqHKQyB3xvqQUB9crhw) 
 * [Discord](https://discord.gg/CZE7EJJQXa) 
 * [Trello](https://trello.com/invite/cp3402pbgroup3/ATTIfb2a4209a4423206cfd8c0d88d601c9cCA6346E9) 
-
-### Additional Notes
-
-1. All changes to the theme and plugins should be tracked in version control.
-2. Maintain coding standards and documentation for future developers.
-3. Test on different browsers and devices to ensure compatibility.
-4. Due to being unable to configure the underscores theme name, '@package version2', as we didn't want to change and corrupt the whole file (this is untested), we decided to leave the name as that.
-* this makes uploading the theme files to WordPress will leave the name of the theme as version2.
 
 ---------------
     Support
