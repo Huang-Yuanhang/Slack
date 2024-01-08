@@ -66,6 +66,11 @@ Deployment to the live server should be done in accordance with the established 
 * Automated deployment using CI/CD pipelines.
 * Direct commits to a production branch in version control, if configured to auto-deploy.
 * Ensure that backups and a rollback plan are in place before deploying.
+
+As for our choice of deployment, our team chose [infinityfree hosting site](https://www.infinityfree.com/)
+* [Live Site](http://jcu14405427.rf.gd/)
+* <i>it is worth mentioning that I have been unable to solve the issues of hero-video not appearing on the live site sadly :( .</i>
+* [Staging Site](http://jcu14405427.rf.gd/wp-admin/)
   
 ### Site Goals
 * Deliver a product that serves as an effective digital front door that welcomes, informs, and converts visitors through a high-quality online experience that mirrors the institution's respectable standards.
