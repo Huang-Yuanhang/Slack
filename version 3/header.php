@@ -17,6 +17,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
+
+
 	<?php if ( is_singular() && pings_open( get_queried_object() ) ) : ?>
     <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
     <?php endif; ?>
@@ -33,7 +35,7 @@
 
 		<!-- Logo Image -->
         <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>./logo.png" alt="James Cook University Logo">
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo.png" alt="James Cook University Logo">
         </a>
 
 		<div class="site-branding">
@@ -68,8 +70,9 @@
 
 			<ul id="primary-menu" class="menu">
         		<li class="menu-item"><a href="<?php echo home_url('/'); ?>">Home</a></li>
+				<li class="menu-item"><a href="<?php echo home_url('#admission'); ?>">Admissions</a></li>
         		<li class="menu-item"><a href="<?php echo home_url('#about'); ?>">About</a></li>
-        		<li class="menu-item"><a href="<?php echo home_url('#enroll-now-form'); ?>">Enroll Now</a></li>
+        		<li class="menu-item special-nav-item"><a href="<?php echo home_url('#enroll-now-form'); ?>">Enroll Now</a></li>
     		</ul>
 
 		</nav><!-- #site-navigation -->

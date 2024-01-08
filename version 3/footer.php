@@ -17,7 +17,7 @@
 			<!-- JCU Information -->
 			<div class="jcu-info">
 				<a href="<?php echo esc_url( home_url( '/' ) ); ?>">
-					<img src="<?php echo get_stylesheet_directory_uri(); ?>/logo.png" alt="James Cook University Logo" class="footer-logo">
+					<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo.png" alt="James Cook University Logo" class="footer-logo">
 				</a>
 				<p>James Cook University is renowned for its excellence in teaching and research, focusing on courses and programs relevant to the tropics.</p>
 			</div>
@@ -41,6 +41,7 @@
 			<nav class="footer-navigation">
 				<ul id="primary-menu" class="menu">
 					<li class="menu-item"><a href="<?php echo home_url('/'); ?>">Home</a></li>
+					<li class="menu-item"><a href="<?php echo home_url('#admission'); ?>">Admissions</a></li>
 					<li class="menu-item"><a href="<?php echo home_url('#about'); ?>">About</a></li>
 					<li class="menu-item"><a href="<?php echo home_url('#enroll-now-form'); ?>">Enroll Now</a></li>
 				</ul>
