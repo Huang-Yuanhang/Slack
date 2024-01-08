@@ -17,11 +17,9 @@ Installation
 ---------------
 
 ### Prerequisites:
-<ul>
-<li>XAMPP v3.3.0 or above</li>
-<li>WordPress 6.4.2</li>
-<li>Visual Studio Code (or any preferred IDE)</li>
-</ul>
+*XAMPP v3.3.0 or above
+*WordPress 6.4.2
+*Visual Studio Code (or any preferred IDE)
 
 ### Setup:
 
