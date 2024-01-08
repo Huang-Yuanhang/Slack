@@ -3,12 +3,16 @@ Group 3 SP53 CP3402 CMS
 
 ### Overview
 
-This document provides all the necessary information for a developer to continue developing and deploying the project openhouse website. The website is a custom WordPress theme designed to provide an engaging and informative experience for prospective students, staff, and the academic community.
+This document provides all the necessary information for a developer to continue developing and deploying the project Openhouse website. The website is a custom WordPress theme designed to provide an engaging and informative experience for prospective students, staff, and the academic community.
 
 ### Project Structure
 The project is structured as a custom WordPress theme built from the _s [(Underscores)](https://underscores.me/) starter theme. 
 <br>The development files are uploaded in [this repository](https://github.com/Huang-Yuanhang/Slack), containing the theme, plugins, and media used in the site's construction.
 <br>The version of the project is as follows, version 1 > version 2 > version 3 > finished product - JCU Openhouse
+
+### a2.html
+This file contains our team's, names, live site links, and project documentation; notably brief Local Environment and site goals.
+* <a href="https://github.com/Huang-Yuanhang/Slack/blob/main/a2.html" target="_blank">a2.html</a>
 
 ### Local Development Environment
 The website was developed using [XAMPP v3.3.0](https://www.apachefriends.org/) as the local server environment with [WordPress 6.4.2](https://wordpress.com/) installed on it.
@@ -62,6 +66,18 @@ Deployment to the live server should be done in accordance with the established 
 * Automated deployment using CI/CD pipelines.
 * Direct commits to a production branch in version control, if configured to auto-deploy.
 * Ensure that backups and a rollback plan are in place before deploying.
+  
+### Site Goals
+* Deliver a product that serves as an effective digital front door that welcomes, informs, and converts visitors through a high-quality online experience that mirrors the institution's respectable standards.
+* Increase conversion rate
+* Increase acceptance rate: 5%
+* Increase open house attendance rate: 10%
+
+### Team Management Links
+* [GitHub](https://github.com/Huang-Yuanhang/Slack) 
+* [Slack](https://join.slack.com/t/cp3402hq/shared_invite/zt-29xrx5suu-AZqTqHKQyB3xvqQUB9crhw) 
+* [Discord](https://discord.gg/CZE7EJJQXa) 
+* [Trello](https://trello.com/invite/cp3402pbgroup3/ATTIfb2a4209a4423206cfd8c0d88d601c9cCA6346E9) 
 
 ### Additional Notes
 
