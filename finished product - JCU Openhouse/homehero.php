@@ -12,6 +12,6 @@
     </video>
 
     <!-- Play/Stop Button -->
-        button id="videoControl">Pause</button>
+        <button id="videoControl">Pause</button>
 
 </section>
