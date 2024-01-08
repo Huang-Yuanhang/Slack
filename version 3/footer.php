@@ -22,6 +22,21 @@
 				<p>James Cook University is renowned for its excellence in teaching and research, focusing on courses and programs relevant to the tropics.</p>
 			</div>
 
+				<!-- Contact Information -->
+				<div class="contact-info">
+					<p>149 Sims Drive, Block A<br>
+					Singapore 387380<br>
+					Tel: +65 6709 3888<br>
+					Email: <a href="mailto:admissions-singapore@jcu.edu.au">admissions-singapore@jcu.edu.au</a></p>
+				</div>
+				<!-- Opening Hours -->
+				<div class="opening-hours">
+					<p>Opening hours<br>
+					8.30am to 6pm, Monday to Friday<br>
+					Closed on Sat/Sun/Public Holidays</p>
+				</div>
+			</div>
+		
 			<!-- Footer Navigation -->
 			<nav class="footer-navigation">
 				<ul id="primary-menu" class="menu">
