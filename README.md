@@ -3,7 +3,7 @@ Group 3 SP53 CP3402 CMS
 
 ### Overview
 
-This document provides all the necessary information for a developer to continue developing and deploying the James Cook University website. The website is a custom WordPress theme designed to provide an engaging and informative experience for prospective students, staff, and the academic community.
+This document provides all the necessary information for a developer to continue developing and deploying the project openhouse website. The website is a custom WordPress theme designed to provide an engaging and informative experience for prospective students, staff, and the academic community.
 
 ### Project Structure
 The project is structured as a custom WordPress theme built from the _s [(Underscores)](https://underscores.me/) starter theme. 
