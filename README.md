@@ -57,6 +57,11 @@ Installation
 3. Test Changes: Thoroughly test your changes in the local environment.
 4. Commit: Once tested, commit your changes with a clear commit message.
 5. Push: Push your commits to the remote repository.
+   
+---------------
+Development 
+Trello/Discord -> Slack -> XAMPP -> Wordpress -> VSCode -> Github -> Staging -> Live Site -> Finished Product
+---------------
 
 ### Deployment
 
