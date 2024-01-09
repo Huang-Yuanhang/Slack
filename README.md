@@ -12,13 +12,9 @@ The project is structured as a custom WordPress theme built from the _s [(Unders
 
 ### Project Showcase
 
-![backtotop](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/backtotop.gif)
-![brochuredisplay](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/brochuredisplay.gif)
 ![fullsite](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/fullsite.gif)
-![infofeature](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/infofeatures.gif)
-![nav](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/nav.gif)
-![playpause](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/playpausebutton.gif)
-![ranking](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/ranking.gif)
+<br> ![ranking](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/ranking.gif)
+<br> ![backtotop](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/backtotop.gif)
 
 ### a2.html
 This file contains our team's, names, live site links, and project documentation; notably brief Local Environment and site goals.
