@@ -95,7 +95,6 @@ Trello/Discord -> Slack -> XAMPP -> Wordpress -> VSCode -> Github -> Staging -> 
 ------------------------------------------------------------------------------------------
 
 The development workflow for the website project incorporates a structured approach, focusing on team collaboration, code quality, and performance optimization. 
-<br>Here's the refined workflow considering the new information:
 
 1. Communication and Collaboration
 * Clear Communication Channels: Use platforms; Slack and Discord for daily communication.
