@@ -77,22 +77,62 @@ Deployment to the live server should be done in accordance with the established 
 ### Group 3 Project Documentation
 ---------------
 
+### Goals
+* Deliver a product that serves as an effective digital front door that welcomes, informs, and converts visitors through a high-quality online experience that mirrors the institution's respectable standards.
+* Increase conversion rate
+* Increase acceptance rate: 5%
+* Increase open house attendance rate: 10%
+
 ### Deployment
 As for our choice of deployment, our team chose [infinityfree hosting site](https://www.infinityfree.com/)
 * [Live Site](http://jcu14405427.rf.gd/)
-* <i>it is worth mentioning that I have been unable to solve the issues of hero-video not appearing on the live site sadly :( .</i>
+* <i>it is worth mentioning that I have been unable to solve the issues of hero-video not appearing on live-site sadly :( .</i>
 * [Staging Site](http://jcu14405427.rf.gd/wp-admin/)
 
 #### Workflow
 ------------------------------------------------------------------------------------------
 Trello/Discord -> Slack -> XAMPP -> Wordpress -> VSCode -> Github -> Staging -> Live Site 
 ------------------------------------------------------------------------------------------
-  
-### Site Goals
-* Deliver a product that serves as an effective digital front door that welcomes, informs, and converts visitors through a high-quality online experience that mirrors the institution's respectable standards.
-* Increase conversion rate
-* Increase acceptance rate: 5%
-* Increase open house attendance rate: 10%
+
+The development workflow for the website project incorporates a structured approach, focusing on team collaboration, code quality, and performance optimization. 
+<br>Here's the refined workflow considering the new information:
+
+1. Communication and Collaboration
+* Clear Communication Channels: Use platforms; Slack and Discord for daily communication.
+* Project Management Tools: Organize tasks and milestones using Trello and Discord Channels.
+* Collaboration Tools: GitHub repository for document sharing and collaboration.
+* Efficient Communication Methods: Weekly meetings, daily stand-ups, and regular check-ins at weekly practical sessions.
+
+2. Development Environment
+* Local Development Environment: Utilize XAMPP for local development and testing.
+* Content Management System: WordPress 6.4.2 latest ver. at the time.
+* Foundation Theme: [Underscores](underscores.me)
+* Version Control: Use VSCode for version control with a repository hosted on GitHub.
+
+3. Coding Standards and Review
+* Coding Standards: Adhere to WordPress and foundation theme ([Underscores](underscores.me)) coding standards for PHP, HTML, CSS, and JavaScript.
+* Code Review Tools: Enforce coding standards through regular checkups, though implementing tools like; ESLint, Stylelint, and PHPCS would be more appropraite.
+* Peer Reviews: Conduct code reviews weekly to ensure quality and consistency.
+
+4. Plugin and Theme Management
+* Organization: Maintain a well-structured directory for themes and plugins.
+* Version Control: Track all changes in the version control system through syncing VSCode with GitHub repo.
+* License Management: Only license from Underscore theme applied, GNU GENERAL PUBLIC LICENSE, Version 2, June 1991
+
+5. Performance Optimization
+* Speed Optimization: Implement the fondational code from Underscore theme like get_template_php().
+* Minification and Compression: Ensure clean CSS, JavaScript, PHP, and HTML content.
+* Database and Server Optimization: Optimize tXAMPP and WP configurations to fine-tuned for performance.
+
+6. Testing and Quality Assurance
+* Testing: Set up testing frameworks and template for PHP and JavaScript code.
+* Testing Guidelines: Establish thorough guidelines and checklists for testing aspects of the site.
+* Security Best Practices: Implement and enforce security measures, through WordPress plugins, including regular updates and backups.
+
+7. Deployment and Maintenance
+* Deployment Strategies: Define a clear deployment process.
+* Hosting Site: List out pros & cons of available hosting sites for final decision. 
+* Maintenance Workflows: Establish ongoing maintenance responsibilities to keep the site updated and secure, rotating members periodically.
 
 ### Team Management Links
 * [GitHub](https://github.com/Huang-Yuanhang/Slack) 
