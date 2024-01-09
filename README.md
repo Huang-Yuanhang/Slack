@@ -10,6 +10,16 @@ The project is structured as a custom WordPress theme built from the _s [(Unders
 <br>The development files are uploaded in [this repository](https://github.com/Huang-Yuanhang/Slack), containing the theme, plugins, and media used in the site's construction.
 <br>The version of the project is as follows, version 1 > version 2 > version 3 > finished product - JCU Openhouse
 
+### Project Showcase
+
+![backtotop](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/backtotop.gif)
+![brochuredisplay](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/brochuredisplay.gif)
+![fullsite](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/fullsite.gif)
+![infofeature](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/infofeatures.gif)
+![nav](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/nav.gif)
+![playpause](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/playpausebutton.gif)
+![ranking](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/ranking.gif)
+
 ### a2.html
 This file contains our team's, names, live site links, and project documentation; notably brief Local Environment and site goals.
 * <a href="https://github.com/Huang-Yuanhang/Slack/blob/main/a2.html" target="_blank">a2.html</a>
