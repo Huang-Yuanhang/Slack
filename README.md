@@ -230,7 +230,7 @@ The development workflow for the website project incorporates a structured appro
 ### Version Control (Screenshots)
 | Version 1 | Version 2 | Version 3 |
 |:----------------------:|:---------------------------:|:---------------------:|
-| <img src="hhttps://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20version%201%20-%20first%20creation.png" width="100px" /> | <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20version%202%20-%20theme%20creation.png" width="100px" /> | <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20version%203%20-%20full%20site.gif" width="100px" /> |
+| <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20version%201%20-%20first%20creation.png" width="100px" /> | <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20version%202%20-%20theme%20creation.png" width="100px" /> | <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20version%203%20-%20full%20site.gif" width="100px" /> |
 | [First Creation](https://github.com/Huang-Yuanhang/Slack/tree/main/version%201) | [Theme Creation](https://github.com/Huang-Yuanhang/Slack/tree/main/version%202) | [Full Site](https://github.com/Huang-Yuanhang/Slack/tree/main/finished%20product%20-%20JCU%20Openhouse) |
 
 ### Team Management Links
