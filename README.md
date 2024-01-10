@@ -187,11 +187,11 @@ The development workflow for the website project incorporates a structured appro
 2. Development Environment
 * Local Development Environment: Utilize XAMPP for local development and testing.
 * Content Management System: WordPress 6.4.2 latest ver. at the time.
-* Foundation Theme: [Underscores](underscores.me)
+* Foundation Theme: [Underscores](https://underscores.me/)
 * Version Control: Use VSCode for version control with a repository hosted on GitHub.
 
 3. Coding Standards and Review
-* Coding Standards: Adhere to WordPress and foundation theme ([Underscores](underscores.me)) coding standards for PHP, HTML, CSS, and JavaScript.
+* Coding Standards: Adhere to WordPress and foundation theme ([Underscores](https://underscores.me/)) coding standards for PHP, HTML, CSS, and JavaScript.
 * Code Review Tools: Enforce coding standards through regular checkups, though implementing tools like; ESLint, Stylelint, and PHPCS would be more appropraite.
 * Peer Reviews: Conduct code reviews weekly to ensure quality and consistency.
 
