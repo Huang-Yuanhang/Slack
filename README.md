@@ -221,6 +221,14 @@ The development workflow for the website project incorporates a structured appro
 * [Discord](https://discord.gg/CZE7EJJQXa) 
 * [Trello](https://trello.com/invite/cp3402pbgroup3/ATTIfb2a4209a4423206cfd8c0d88d601c9cCA6346E9) 
 
+#### Team Management reference material
+![slack](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/slack.png)
+![trello](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/trello.png)
+![discord1](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/dc1.png)
+![discord2](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/dc2.png)
+![discord5](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/dc5.png)
+![discord8](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/dc8.png)
+
 ---------------
     Support
 ---------------
