@@ -3,7 +3,7 @@ Group 3 SP53 CP3402 CMS
 
 ### Overview
 
-This document provides all the necessary information for a developer to continue developing and deploying the project Openhouse website. The website is a custom WordPress theme designed to provide an engaging and informative experience for prospective students, staff, and the academic community.
+This document provides all the necessary information for a developer to continue developing and deploying the project Openhouse website. The website is a custom WordPress theme designed to provide an engaging and informative experience for prospective students, parents, staff, and the academic community.
 
 ### Project Structure
 The project is structured as a custom WordPress theme built from the _s [(Underscores)](https://underscores.me/) starter theme. 
@@ -24,7 +24,7 @@ The project is structured as a custom WordPress theme built from the _s [(Unders
 | Animation Trigger Code | Ranking Bars Implementation | CSS Animation Details |
 |:----------------------:|:---------------------------:|:---------------------:|
 | <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20showcase%20code%201.png" width="100px" /> | <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20showcase%20code%202.png" width="100px" /> | <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20showcase%20code%203.png" width="100px" /> |
-| This JavaScript snippet triggers animations. | HTML and CSS setup for ranking bars. | CSS snippet for animation properties. |
+| HTML and CSS setup for ranking bars | This JavaScript snippet triggers animations. | CSS snippet for animation properties. |
 
 See full code [here](https://github.com/Huang-Yuanhang/Slack/tree/main/finished%20product%20-%20JCU%20Openhouse)
 
