@@ -12,9 +12,21 @@ The project is structured as a custom WordPress theme built from the _s [(Unders
 
 ### Project Showcase
 
+* Visit Site [live](http://jcu14405427.rf.gd/) <br>
 ![fullsite](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/fullsite.gif)
+* Animated visual
 <br> ![ranking](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/ranking.gif)
+* Features
 <br> ![backtotop](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/backtotop.gif)
+
+#### Code Showcase Gallery
+
+| Animation Trigger Code | Ranking Bars Implementation | CSS Animation Details |
+|:----------------------:|:---------------------------:|:---------------------:|
+| <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20showcase%20code%201.png" width="100px" /> | <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20showcase%20code%202.png" width="100px" /> | <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20showcase%20code%203.png" width="100px" /> |
+| This JavaScript snippet triggers animations. | HTML and CSS setup for ranking bars. | CSS snippet for animation properties. |
+
+See full code [here](https://github.com/Huang-Yuanhang/Slack/tree/main/finished%20product%20-%20JCU%20Openhouse)
 
 ### a2.html
 This file contains our team's, names, live site links, and project documentation; notably brief Local Environment and site goals.
@@ -214,6 +226,12 @@ The development workflow for the website project incorporates a structured appro
 * Deployment Strategies: Define a clear deployment process.
 * Hosting Site: List out pros & cons of available hosting sites for final decision. 
 * Maintenance Workflows: Establish ongoing maintenance responsibilities to keep the site updated and secure, rotating members periodically.
+  
+### Version Control (Screenshots)
+| Version 1 | Version 2 | Version 3 |
+|:----------------------:|:---------------------------:|:---------------------:|
+| <img src="hhttps://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20version%201%20-%20first%20creation.png" width="100px" /> | <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20version%202%20-%20theme%20creation.png" width="100px" /> | <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20version%203%20-%20full%20site.gif" width="100px" /> |
+| [First Creation](https://github.com/Huang-Yuanhang/Slack/tree/main/version%201) | [Theme Creation](https://github.com/Huang-Yuanhang/Slack/tree/main/version%202) | [Full Site](https://github.com/Huang-Yuanhang/Slack/tree/main/finished%20product%20-%20JCU%20Openhouse) |
 
 ### Team Management Links
 * [GitHub](https://github.com/Huang-Yuanhang/Slack) 
@@ -228,6 +246,9 @@ The development workflow for the website project incorporates a structured appro
 ![discord2](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/dc2.png)
 ![discord5](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/dc5.png)
 ![discord8](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/dc8.png)
+
+
+see more material reference [here](https://github.com/Huang-Yuanhang/Slack/tree/main/Screenshots%20Evidence%20for%20A2)
 
 ---------------
     Support
