@@ -250,6 +250,8 @@ The development workflow for the website project incorporates a structured appro
 
 see more material reference [here](https://github.com/Huang-Yuanhang/Slack/tree/main/Screenshots%20Evidence%20for%20A2)
 
+* Presentation Link: https://www.canva.com/design/DAF5eznj3fs/v7q9WYEo51VjKDN95LO-gw/edit?utm_content=DAF5eznj3fs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ---------------
     Support
 ---------------
